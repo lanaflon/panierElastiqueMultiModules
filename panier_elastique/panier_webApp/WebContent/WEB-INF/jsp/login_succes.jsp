@@ -2,8 +2,11 @@
 <%@page import="afpa.cdi.elastique.panier.modele.Client"%>
 <%@page import="afpa.cdi.elastique.panier.beans.BlocFiltre"%>
 <%@page import="afpa.cdi.elastique.panier.beans.LigneFiltre"%>
-
 <%@page import="java.util.ArrayList"%>
+
+<%@page importxmlns="default namespace" %>
+
+
 
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
